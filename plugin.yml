@@ -1,0 +1,7 @@
+name: AirMC
+main: com.airmc.core.CorePlugin
+version: 1.1
+commands:
+   air:
+      description: Teleports the player to the spawn location.
+      usage: /<command>
